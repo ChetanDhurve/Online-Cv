@@ -1,3 +1,3 @@
 # Online-Cv
 Resume made from .html
-![bobby](https://github.com/user-attachments/assets/50657853-37f0-415f-ab91-41cccedd6e58)
+![bobby](https://github.com/user-attachments/assets/3720cc4a-31c1-4537-839e-a5d3f137d0f9)
